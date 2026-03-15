@@ -6,3 +6,6 @@ schedule
 fastapi
 uvicorn
 python-dotenv
+sqlalchemy
+pyodbc
+duckdb
